@@ -1,12 +1,16 @@
 # ResumeIQ
 
-> 🤖 AI-Powered Resume Analyzer
+> 🤖 **AI-Powered Resume Analyzer**
 
 🚧 **Status: Active Development**
 
-ResumeIQ is an AI-powered resume analyzer designed to help users understand and improve their resumes using AI-based analysis.
+ResumeIQ is an AI-powered resume analysis project focused on helping users understand their resumes, identify areas for improvement, and make their applications more effective.
 
-The project is currently under development, with the goal of building a tool that can analyze resume content, identify strengths and weaknesses, and provide actionable feedback.
+The goal is to build a practical AI tool that can analyze resume content, evaluate important aspects of a resume, and provide clear, actionable feedback.
+
+This project is also a learning journey where I am exploring **AI engineering, Python, NLP, document processing, software architecture, testing, and real-world application development.**
+
+---
 
 ## 🎯 Planned Features
 
@@ -17,45 +21,115 @@ The project is currently under development, with the goal of building a tool tha
 * 🎯 Job description matching
 * 💡 Personalized improvement suggestions
 * 📈 Detailed analysis reports
+* 🧠 Intelligent recommendations
+* 🔄 Continuous improvement based on testing and feedback
+
+---
 
 ## 🧠 What I'm Learning
 
-Building ResumeIQ is helping me learn how to build a real-world AI application while improving my skills in:
+Building ResumeIQ is helping me learn how to design and develop a real-world AI application.
 
-* Python development
-* AI and LLM integration
-* Resume/document parsing
-* Natural Language Processing
-* Software architecture
-* Testing with pytest
-* Debugging
-* API integration
-* Git and GitHub
-* Technical documentation
-* Building maintainable software
+Through this project, I'm learning:
+
+* 🐍 Python development
+* 🤖 AI and LLM integration
+* 📄 Resume and document parsing
+* 🧠 Natural Language Processing
+* 🔍 AI-based text analysis
+* 🏗️ Software architecture
+* 🧪 Testing with `pytest`
+* 🐛 Debugging and error handling
+* 🔌 API integration
+* 🔐 Environment variables and API key management
+* 📦 Dependency and virtual-environment management
+* 🌱 Git and GitHub
+* 📝 Technical documentation
+* 🚀 Building maintainable and reliable software
+
+---
 
 ## 🗺️ Roadmap
+
+### 🔹 Core System
 
 * [ ] Resume parser
 * [ ] AI analysis engine
 * [ ] Resume scoring
-* [ ] Job description matching
-* [ ] Recommendation system
+* [ ] Skills and experience analysis
+
+### 🔹 Job Matching
+
+* [ ] Job description analysis
+* [ ] Resume ↔ Job Description matching
+* [ ] Missing skills identification
+* [ ] Job-specific recommendations
+
+### 🔹 User Experience
+
 * [ ] User interface
+* [ ] Detailed analysis dashboard
 * [ ] Analysis report
-* [ ] Testing and optimization
+* [ ] Exportable results
+
+### 🔹 Quality & Release
+
+* [ ] Expand automated tests
+* [ ] Improve analysis accuracy
+* [ ] Improve parsing reliability
+* [ ] Performance optimization
+* [ ] Documentation
 * [ ] v1.0 release
-
-## 🚧 Development Status
-
-ResumeIQ is currently being actively developed.
-
-The repository will be updated as new components and features are completed.
-
-## 🔮 Coming Soon
-
-More details, screenshots, architecture documentation, installation instructions, and the complete source code will be added as development progresses.
 
 ---
 
-**Built as a practical project to explore AI engineering, Python, and real-world software development.**
+## 💡 Ideas & Suggestions
+
+ResumeIQ is an **open development project**, and I'm always interested in new ideas.
+
+If you have an idea that could make ResumeIQ more useful, smarter, easier to use, or technically better, feel free to share it.
+
+You can:
+
+* 💬 Open an **Issue** with your idea
+* 🐛 Report a bug
+* 💡 Suggest a feature
+* 🔧 Suggest a technical improvement
+
+Even small suggestions are welcome. If you have an interesting idea for ResumeIQ, **I'd love to hear it! 🚀**
+
+---
+
+## 🚧 Development Status
+
+ResumeIQ is currently under active development.
+
+The project will evolve as new features are implemented, tested, and improved.
+
+Some features listed above are **planned and have not been implemented yet**.
+
+---
+
+## 🔮 Coming Soon
+
+As development progresses, this repository will include:
+
+* 📸 Project screenshots
+* 🏗️ Architecture documentation
+* ⚙️ Installation and setup instructions
+* 🧪 Testing documentation
+* 📊 Example analysis results
+* 💻 Complete source code
+* 🚀 Release information
+
+---
+
+## 🎓 Why I'm Building This
+
+ResumeIQ is more than just an AI project. I'm building it as a practical way to learn how individual components of an AI-powered application come together to form a complete software product.
+
+The project gives me an opportunity to experiment, make mistakes, test different approaches, and continuously improve the system.
+
+---
+
+**Built with curiosity, experimentation, and a goal to learn by building. 🚀**
